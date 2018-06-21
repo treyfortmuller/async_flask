@@ -1,10 +1,12 @@
+# WebTelem
+
+A lightweight numerical telemetry interface written in python and built on Flask and SocketIO for real time updates to a web interface. This project was originally forked from Shane Lynn's [async_flask](https://github.com/shanealynn/async_flask). The original README is below:
+
+```
 async_flask
 
 Shane Lynn 15/07/2014
-
 Updated to Python 3: 19th-May-2018
-
-===========
 
 Test of asynchronous flask communication with web page. 
 
@@ -31,3 +33,4 @@ python application.py
 </code>
 
 And visit http://localhost:5000 to see the updating numbers.
+```
